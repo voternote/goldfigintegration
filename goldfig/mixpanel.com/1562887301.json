@@ -1,0 +1,73 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562887240,
+    "url": "https://mixpanel.com/settings/project/2000473",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562887258,
+    "url": "https://mixpanel.com/settings/project/2000473#users",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Invite Users",
+        "submitted": 1562887266,
+        "inputs": [
+          {
+            "labels": [
+              "Name",
+              "Name",
+              "New project name"
+            ],
+            "changed": true,
+            "originalValue": "Project Nam 1",
+            "updatedValue": "Project Nam 11",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "New project name"
+            ],
+            "changed": true,
+            "originalValue": "Project Nam 1",
+            "updatedValue": "Project Nam 11",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "Done",
+        "submitted": 1562887284,
+        "inputs": [
+          {
+            "labels": [
+              "Name",
+              "Name",
+              "New project name"
+            ],
+            "changed": true,
+            "originalValue": "Project Nam 1",
+            "updatedValue": "Project Nam 11",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "New project name"
+            ],
+            "changed": true,
+            "originalValue": "Project Nam 1",
+            "updatedValue": "Project Nam 11",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  }
+]
