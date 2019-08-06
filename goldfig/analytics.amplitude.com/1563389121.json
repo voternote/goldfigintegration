@@ -1,0 +1,36 @@
+[
+  {
+    "message": "",
+    "timestamp": 1563389090,
+    "url": "https://analytics.amplitude.com/voternote/settings/plan-admin",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1563389104,
+    "url": "https://analytics.amplitude.com/voternote/settings/profile",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Edit Profile",
+        "submitted": 1563389111,
+        "inputs": []
+      },
+      {
+        "name": "Submit",
+        "submitted": 1563389116,
+        "inputs": [
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "NOte",
+            "updatedValue": "Note",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  }
+]
