@@ -1,0 +1,23 @@
+[
+  {
+    "message": "",
+    "timestamp": 1563386709,
+    "url": "https://analytics.amplitude.com/voternote/settings/projects/240601",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1563386718,
+    "url": "https://analytics.amplitude.com/voternote/settings/users",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1563386718,
+    "url": "https://analytics.amplitude.com/voternote/settings/users/joined",
+    "forms": [],
+    "buttons": []
+  }
+]
