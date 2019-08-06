@@ -1,0 +1,76 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562633280,
+    "url": "https://dashboard.heroku.com/apps",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562634111,
+    "url": "https://dashboard.heroku.com/new-app",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "    Create app\n",
+        "submitted": 1562634118,
+        "inputs": [
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562634119,
+    "url": "https://dashboard.heroku.com/apps/goldfigtest/deploy/heroku-git",
+    "forms": [],
+    "buttons": []
+  }
+]
