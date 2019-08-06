@@ -1,0 +1,58 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562604446,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562604449,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/create",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Create function",
+        "submitted": 1562604465,
+        "inputs": [
+          {
+            "labels": [
+              "RuntimeInfo"
+            ],
+            "changed": true,
+            "originalValue": "Node.js 10.x",
+            "updatedValue": "Python 2.7",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Function name",
+              "myFunctionName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteTest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562604478,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/voterNoteTest?newFunction=true",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562604478,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/voterNoteTest?newFunction=true&tab=graph",
+    "forms": [],
+    "buttons": []
+  }
+]
