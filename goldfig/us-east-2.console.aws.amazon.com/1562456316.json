@@ -1,0 +1,109 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562456196,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/create?firstrun=true",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Create function",
+        "submitted": 1562456223,
+        "inputs": [
+          {
+            "labels": [
+              "RuntimeInfo"
+            ],
+            "changed": true,
+            "originalValue": "Node.js 10.x",
+            "updatedValue": "Java 8",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Execution role"
+            ],
+            "changed": true,
+            "originalValue": "Create a new role with basic Lambda permissions",
+            "updatedValue": "Create a new role from AWS policy templates",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Function name",
+              "myFunctionName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteTest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "Create function",
+        "submitted": 1562456292,
+        "inputs": [
+          {
+            "labels": [
+              "RuntimeInfo"
+            ],
+            "changed": true,
+            "originalValue": "Node.js 10.x",
+            "updatedValue": "Java 8",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Execution role"
+            ],
+            "changed": true,
+            "originalValue": "Create a new role with basic Lambda permissions",
+            "updatedValue": "Create a new role from AWS policy templates",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Role name",
+              "myRoleName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteLambda",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Function name",
+              "myFunctionName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteTest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562456305,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/voterNoteTest?newFunction=true",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562456305,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/voterNoteTest?newFunction=true&tab=graph",
+    "forms": [],
+    "buttons": []
+  }
+]
