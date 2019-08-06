@@ -1,0 +1,23 @@
+[
+  {
+    "message": "",
+    "timestamp": 1563337293,
+    "url": "https://analytics.amplitude.com/voternote/settings/plan-admin",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1563337301,
+    "url": "https://analytics.amplitude.com/voternote/settings/users",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1563337301,
+    "url": "https://analytics.amplitude.com/voternote/settings/users/joined",
+    "forms": [],
+    "buttons": []
+  }
+]
