@@ -1,0 +1,136 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562634286,
+    "url": "https://dashboard.heroku.com/apps/goldfigtest/deploy/heroku-git",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562634288,
+    "url": "https://dashboard.heroku.com/apps/goldfigtest/settings",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "\n    Delete app...\n  ",
+        "submitted": 1562634290,
+        "inputs": [
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "    Delete app\n",
+        "submitted": 1562634294,
+        "inputs": [
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562634295,
+    "url": "https://dashboard.heroku.com/apps",
+    "forms": [],
+    "buttons": []
+  }
+]
