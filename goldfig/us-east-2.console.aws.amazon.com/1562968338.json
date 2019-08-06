@@ -1,0 +1,36 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562968231,
+    "url": "https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Home:",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562968240,
+    "url": "https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Home:",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562968271,
+    "url": "https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#LaunchInstanceWizard:",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Select",
+        "submitted": 1562968284,
+        "inputs": []
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562968320,
+    "url": "https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:",
+    "forms": [],
+    "buttons": []
+  }
+]
