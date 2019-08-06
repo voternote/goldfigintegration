@@ -1,0 +1,29 @@
+[
+  {
+    "message": "",
+    "timestamp": 1563318598,
+    "url": "https://analytics.amplitude.com/voternote/settings/projects",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Create Project",
+        "submitted": 1563318600,
+        "inputs": []
+      },
+      {
+        "name": "Create",
+        "submitted": 1563318607,
+        "inputs": [
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "VoterNote Demo",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  }
+]
