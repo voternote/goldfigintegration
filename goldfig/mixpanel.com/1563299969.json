@@ -1,0 +1,38 @@
+[
+  {
+    "message": "",
+    "timestamp": 1563299928,
+    "url": "https://mixpanel.com/settings/project/2000473",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1563299932,
+    "url": "https://mixpanel.com/settings/project/2000473#users",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Invite Users",
+        "submitted": 1563299938,
+        "inputs": []
+      },
+      {
+        "name": "Done",
+        "submitted": 1563299949,
+        "inputs": [
+          {
+            "labels": [
+              "Search or invite users (email)"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "admin@voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  }
+]
