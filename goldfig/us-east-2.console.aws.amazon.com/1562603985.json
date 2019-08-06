@@ -1,0 +1,167 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562456196,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/create?firstrun=true",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Create function",
+        "submitted": 1562456223,
+        "inputs": [
+          {
+            "labels": [
+              "RuntimeInfo"
+            ],
+            "changed": true,
+            "originalValue": "Node.js 10.x",
+            "updatedValue": "Java 8",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Execution role"
+            ],
+            "changed": true,
+            "originalValue": "Create a new role with basic Lambda permissions",
+            "updatedValue": "Create a new role from AWS policy templates",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Function name",
+              "myFunctionName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteTest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "Create function",
+        "submitted": 1562456292,
+        "inputs": [
+          {
+            "labels": [
+              "RuntimeInfo"
+            ],
+            "changed": true,
+            "originalValue": "Node.js 10.x",
+            "updatedValue": "Java 8",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Execution role"
+            ],
+            "changed": true,
+            "originalValue": "Create a new role with basic Lambda permissions",
+            "updatedValue": "Create a new role from AWS policy templates",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Role name",
+              "myRoleName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteLambda",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Function name",
+              "myFunctionName"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voterNoteTest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562456305,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/voterNoteTest?newFunction=true",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562456305,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions/voterNoteTest?newFunction=true&tab=graph",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562603957,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562603965,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Button",
+        "submitted": 1562603971,
+        "inputs": [
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562603972,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions?deleteModal=voterNoteTest",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Delete",
+        "submitted": 1562603974,
+        "inputs": [
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562603974,
+    "url": "https://us-east-2.console.aws.amazon.com/lambda/home?region=us-east-2#/functions",
+    "forms": [],
+    "buttons": []
+  }
+]
