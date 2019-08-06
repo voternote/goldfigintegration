@@ -1,0 +1,580 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562619039,
+    "url": "https://manage.fastly.com/configure/services/10ZmpIopqGsIMZ9vxCRApL/versions/1/domains",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562619047,
+    "url": "https://manage.fastly.com/configure/services/10ZmpIopqGsIMZ9vxCRApL/versions/1/settings",
+    "forms": [
+      {
+        "labels": [],
+        "submitted": 1562619055,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ],
+    "buttons": [
+      {
+        "name": "\n        Add\n      ",
+        "submitted": 1562619071,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          }
+        ]
+      },
+      {
+        "name": "\n    Add comment\n  ",
+        "submitted": 1562619123,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          }
+        ]
+      },
+      {
+        "name": "Save",
+        "submitted": 1562619133,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          },
+          {
+            "labels": [
+              "Comment",
+              "Up to 512 characters..."
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Why is this comment trapped in fastly?",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562619185,
+    "url": "https://manage.fastly.com/configure/services/10ZmpIopqGsIMZ9vxCRApL/versions/1/domains",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562619188,
+    "url": "https://manage.fastly.com/configure/services/10ZmpIopqGsIMZ9vxCRApL/versions/1/domains/new",
+    "forms": [
+      {
+        "labels": [],
+        "submitted": 1562619189,
+        "inputs": [
+          {
+            "labels": [
+              "Domain Name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment"
+            ],
+            "changed": false,
+            "originalValue": "",
+            "updatedValue": "",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ],
+    "buttons": [
+      {
+        "name": "Create",
+        "submitted": 1562619193,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Domain Name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          },
+          {
+            "labels": [
+              "Comment",
+              "Up to 512 characters..."
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Why is this comment trapped in fastly?",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562619194,
+    "url": "https://manage.fastly.com/configure/services/10ZmpIopqGsIMZ9vxCRApL/versions/1/domains",
+    "forms": [],
+    "buttons": []
+  },
+  {
+    "message": "",
+    "timestamp": 1562619201,
+    "url": "https://manage.fastly.com/configure/services/10ZmpIopqGsIMZ9vxCRApL/versions/1/origins",
+    "forms": [
+      {
+        "labels": [],
+        "submitted": 1562619201,
+        "inputs": [
+          {
+            "labels": [
+              "Hostname or IPv4 address for the backend…"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.1.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ],
+    "buttons": [
+      {
+        "name": "Add",
+        "submitted": 1562619209,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Domain Name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Hostname or IPv4 address for the backend…"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.1.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          },
+          {
+            "labels": [
+              "Comment",
+              "Up to 512 characters..."
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Why is this comment trapped in fastly?",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "\n      Why is this comment trapped in fastly?\n    ",
+        "submitted": 1562619230,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Domain Name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Hostname or IPv4 address for the backend…"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.1.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          },
+          {
+            "labels": [
+              "Comment",
+              "Up to 512 characters..."
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Why is this comment trapped in fastly?",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "Button",
+        "submitted": 1562619236,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Domain Name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Hostname or IPv4 address for the backend…"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.1.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          },
+          {
+            "labels": [
+              "Comment",
+              "Up to 512 characters..."
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Why is this comment trapped in fastly?",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "  Activate\n",
+        "submitted": 1562619246,
+        "inputs": [
+          {
+            "labels": [
+              "192.0.2.0",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.0.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Comment (optional)",
+              ""
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Weird IP to show up",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Domain Name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "voternote.com",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "Hostname or IPv4 address for the backend…"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "192.168.1.1",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "IP block list"
+            ],
+            "changed": true,
+            "originalValue": "on",
+            "updatedValue": "on",
+            "originalChecked": false,
+            "updatedChecked": true
+          },
+          {
+            "labels": [
+              "Comment",
+              "Up to 512 characters..."
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "Why is this comment trapped in fastly?",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  }
+]

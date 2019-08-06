@@ -1,0 +1,7 @@
+{
+  "message": "Added domain, host, and updated blocklist",
+  "timestamp": 1562619264,
+  "changes": [
+    "goldfig/manage.fastly.com/1562619264.json"
+  ]
+}
