@@ -1,0 +1,165 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562636626,
+    "url": "https://dashboard.heroku.com/apps/goldfigtest/settings",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "\n    Delete app...\n  ",
+        "submitted": 1562636630,
+        "inputs": [
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      },
+      {
+        "name": "    Delete app\n",
+        "submitted": 1562636634,
+        "inputs": [
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "app-name"
+            ],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [],
+            "changed": true,
+            "originalValue": "",
+            "updatedValue": "goldfigtest",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "message": "",
+    "timestamp": 1562636635,
+    "url": "https://dashboard.heroku.com/apps",
+    "forms": [],
+    "buttons": []
+  }
+]
