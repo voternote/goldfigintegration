@@ -1,0 +1,38 @@
+[
+  {
+    "message": "",
+    "timestamp": 1562887093,
+    "url": "https://mixpanel.com/settings/project/2000473",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Save",
+        "submitted": 1562887105,
+        "inputs": [
+          {
+            "labels": [
+              "Name",
+              "Name",
+              "New project name"
+            ],
+            "changed": true,
+            "originalValue": "Project Nam 1",
+            "updatedValue": "Project Nam 11",
+            "originalChecked": false,
+            "updatedChecked": false
+          },
+          {
+            "labels": [
+              "New project name"
+            ],
+            "changed": true,
+            "originalValue": "Project Nam 1",
+            "updatedValue": "Project Nam 11",
+            "originalChecked": false,
+            "updatedChecked": false
+          }
+        ]
+      }
+    ]
+  }
+]
