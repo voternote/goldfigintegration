@@ -1,0 +1,20 @@
+[
+  {
+    "message": "",
+    "timestamp": 1563252599,
+    "url": "https://www.wikipedia.org/",
+    "forms": [],
+    "buttons": [
+      {
+        "name": "Button",
+        "submitted": 1563252604,
+        "inputs": []
+      },
+      {
+        "name": "Button",
+        "submitted": 1563252605,
+        "inputs": []
+      }
+    ]
+  }
+]
